@@ -14,4 +14,4 @@ chrome://extensions
 >  - Drag the whole _Vibes_ folder into the list of extensions. Installation must be automatic.
 
 
-_Desarrollado por Martín Campos para la asignatura de 'Programació Avançada' del grado de Matemáticas de la Universitat Autònoma de Barcelona_
+_Developed by Martín Campos, David Masip and Leonardo González for Winter HackUPC 2017_
