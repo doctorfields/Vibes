@@ -7,7 +7,7 @@ _Vibes_ is a Chrome extension for Twitter that estimates the enthusiasm generate
 
 ## Installation
 
->  - In your Chrome Web Browser, access to the extensions page by writingin the adress bar:
+>  - In your Chrome Web Browser, access to the extensions page by writing in the adress bar:
 ```
 chrome://extensions
 ```
