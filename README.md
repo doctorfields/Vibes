@@ -12,3 +12,7 @@ _Vibes_ is a Chrome extension for Twitter that estimates the enthusiasm generate
 chrome://extensions
 ```
 >  - Drag the whole _Vibes_ folder into the list of extensions. Installation must be automatic.
+
+## Preview
+
+![Screenshot](screenshot.png)
