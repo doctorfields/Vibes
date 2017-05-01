@@ -17,6 +17,6 @@ chrome://extensions
 
 Once you have installed _Vibes_, you should see something like this everytime you got to a Twitter user page, or search of a hashtag:
 
-![alt text](https://github.com/doctorfields/Vibes/screenshot.png "Preview")
+![alt text](https://github.com/doctorfields/Vibes/master/screenshot.png "Preview")
 
 _Developed by Martín Campos, David Masip and Leonardo González for Winter HackUPC 2017_
